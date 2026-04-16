@@ -141,14 +141,14 @@ Place all images inside a folder named `screenshots/`.
 
 | Feature                     | Screenshot                                                   |
 | --------------------------- | ------------------------------------------------------------ |
-| Multi-container supervision | ![](screenshots/os_1.png)                                    |
-| Metadata tracking           | ![](screenshots/os_2.png)                                    |
-| Bounded-buffer logging      | ![](screenshots/os_3.png)                                    |
-| CLI and IPC                 | ![](screenshots/os_4.png)                                    |
-| Soft-limit warning          | ![](screenshots/os_5_1.png) <br> ![](screenshots/os_5_2.png) |
-| Hard-limit enforcement      | ![](screenshots/os_6.png)                                    |
-| Scheduling experiment       | ![](screenshots/os_7.png)                                    |
-| Clean teardown              | ![](screenshots/os_8_1.png)                                  |
+| Multi-container supervision | ![](screenshots/os_1.jpeg)                                    |
+| Metadata tracking           | ![](screenshots/os_2.jpeg)                                    |
+| Bounded-buffer logging      | ![](screenshots/os_3.jpeg)                                    |
+| CLI and IPC                 | ![](screenshots/os_4.jpeg)                                    |
+| Soft-limit warning          | ![](screenshots/os_5.jpeg) <br> ![](screenshots/os_5_2.png) |
+| Hard-limit enforcement      | ![](screenshots/os_6.jpeg)                                    |
+| Scheduling experiment       | ![](screenshots/os_7.jpeg)                                    |
+| Clean teardown              | ![](screenshots/os_8.jpeg)                                  |
 
 ---
 
